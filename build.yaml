@@ -15,6 +15,6 @@
 ---
 include:
   - board: nice_nano//zmk
-    shield: sofle_left
+    shield: sofle_left custom_screen
   - board: nice_nano//zmk
-    shield: sofle_right
+    shield: sofle_right custom_screen
