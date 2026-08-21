@@ -1,0 +1,2 @@
+config SHIELD_CUSTOM_SCREEN
+    def_bool $(shields_list_contains,custom_screen)
