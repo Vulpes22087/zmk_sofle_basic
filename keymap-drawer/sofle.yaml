@@ -79,8 +79,8 @@ layers:
   - {t: ▽, type: trans}
   - KP NUMLOCK
   - PSCRN
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Alt+PAGE DOWN
+  - Alt+PAGE UP
   - _
   - PG UP
   - {t: ▽, type: trans}
